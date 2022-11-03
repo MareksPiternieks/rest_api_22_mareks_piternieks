@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.493">
+    <testcase classname="This feature tests ClickUp API" name="Create folder in ClickUp space" time="13.3">
+        <system-out><![CDATA[Given Create new folder with name "My Folder Name", save it`s data and verify it`s name.passed
+Then Create new list........................................................passed
+And Verify list name is correct and it is added in correct folder...........passed
+Then Create new task in list................................................passed
+And Verify task name is correct.............................................passed
+Then Remove task from list..................................................passed
+And Fetch the List and verify that the Task can't be found there............passed
+]]></system-out>
+    </testcase>
+</testsuite>

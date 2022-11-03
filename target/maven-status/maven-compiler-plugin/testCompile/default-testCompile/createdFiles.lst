@@ -1,0 +1,11 @@
+apiCourse/helpers/NameGenerator.class
+apiCourse/domain/Task.class
+apiCourse/helpers/TestCaseContext.class
+apiCourse/clients/ClickUpClients.class
+apiCourse/stepdefinitions/ClickUpSteps.class
+apiCourse/domain/List.class
+apiCourse/domain/Folder.class
+apiCourse/domain/Tasks.class
+apiCourse/testRunner/TestRunner.class
+apiCourse/constants/ProjectConstants.class
+apiCourse/stepdefinitions/Hooks.class
