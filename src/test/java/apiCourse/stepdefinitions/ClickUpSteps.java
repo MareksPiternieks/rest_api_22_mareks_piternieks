@@ -89,7 +89,7 @@ public class ClickUpSteps {
     @Then("Remove task from list")
     public void removeTaskFromList() {
         JSONObject obj = new JSONObject();
-        Response resp = deleteTask(obj, TestCaseContext.getTask().getId());
+        deleteTask(obj, TestCaseContext.getTask().getId());
     }
 
     @And("Fetch the List and verify that the Task can't be found there")
